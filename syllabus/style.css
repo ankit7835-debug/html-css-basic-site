@@ -1,0 +1,72 @@
+
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+
+.heading{
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #fff;
+  text-decoration: none;
+  padding-left: 30px;
+}
+
+
+.profilepic{
+  display: flex;
+  justify-content: right;
+height: 50px;
+}
+
+
+.navlist{
+  list-style-type: none;
+  display: flex; 
+  justify-content: space-between;
+  
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+.schedule{
+  display: flex;
+  justify-content: space-between;
+  font-size: large;
+  margin-top: 20px;
+
+}
+table, th, td {
+  border: 1px solid;
+}
+footer{
+
+  padding-left: 40%;
+  color: #fff;
+  
+  background-color: #333;
+}
+.htmlimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+height: 450px;
+width: 600px;
+}
